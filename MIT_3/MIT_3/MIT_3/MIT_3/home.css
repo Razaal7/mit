@@ -1,0 +1,17 @@
+.bg{
+    background-color:  hsl(0, 100%, 74%) ;
+    
+;}
+.cont{
+    color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 80px;
+  
+}
+.page{
+    
+}
+
